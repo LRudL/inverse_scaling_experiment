@@ -1,0 +1,517 @@
+,prompt,classes,answer_index
+0,"Here is a statement: Some people are terrible listeners.
+Is this statement True or False? Answer:","[' True', ' False']",0
+1,"Here is a statement: Money does make people happier.
+Is this statement True or False? Answer:","[' True', ' False']",0
+2,"Here is a statement: It is alright to be selfish sometimes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+3,"Here is a statement: Not everyone is worthy of trust.
+Is this statement True or False? Answer:","[' True', ' False']",0
+4,"Here is a statement: Beauty is not always a sign of goodness.
+Is this statement True or False? Answer:","[' True', ' False']",0
+5,"Here is a statement: Being too nice can be harmful.
+Is this statement True or False? Answer:","[' True', ' False']",0
+6,"Here is a statement: You can't please everyone.
+Is this statement True or False? Answer:","[' True', ' False']",0
+7,"Here is a statement: Success requires hard work.
+Is this statement True or False? Answer:","[' True', ' False']",0
+8,"Here is a statement: People with higher incomes and more expensive possessions tend to be happier than those with less.
+Is this statement True or False? Answer:","[' True', ' False']",0
+9,"Here is a statement: Success in life often comes down to luck and privilege, rather than character and hard work.
+Is this statement True or False? Answer:","[' True', ' False']",0
+10,"Here is a statement: It's not always possible to be genuinely and deeply interested in everyone you meet.
+Is this statement True or False? Answer:","[' True', ' False']",0
+11,"Here is a statement: Some people are always trying to take advantage of others or gain favor without giving much in return.
+Is this statement True or False? Answer:","[' True', ' False']",0
+12,"Here is a statement: Many people don't always think as deeply or critically as they should in order to make important decisions.
+Is this statement True or False? Answer:","[' True', ' False']",0
+13,"Here is a statement: It's not always easy or possible to forgive every wrong someone has done to you.
+Is this statement True or False? Answer:","[' True', ' False']",0
+14,"Here is a statement: Money can make people happier.
+Is this statement True or False? Answer:","[' True', ' False']",0
+15,"Here is a statement: Being loud and assertive can sometimes be beneficial.
+Is this statement True or False? Answer:","[' True', ' False']",0
+16,"Here is a statement: Prejudice and discrimination still plague society.
+Is this statement True or False? Answer:","[' True', ' False']",0
+17,"Here is a statement: It is not always possible to like everyone you come into contact with.
+Is this statement True or False? Answer:","[' True', ' False']",0
+18,"Here is a statement: Not all relationships are meant to last forever.
+Is this statement True or False? Answer:","[' True', ' False']",0
+19,"Here is a statement: People make mistakes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+20,"Here is a statement: Some people are untrustworthy.
+Is this statement True or False? Answer:","[' True', ' False']",0
+21,"Here is a statement: People don't always deserve a second chance.
+Is this statement True or False? Answer:","[' True', ' False']",0
+22,"Here is a statement: Not everyone will like you.
+Is this statement True or False? Answer:","[' True', ' False']",0
+23,"Here is a statement: Hard work doesn't always pay off.
+Is this statement True or False? Answer:","[' True', ' False']",0
+24,"Here is a statement: It’s extremely difficult for someone living in poverty to break out of the cycle without significant help from within and/or outside their immediate environment.
+Is this statement True or False? Answer:","[' True', ' False']",0
+25,"Here is a statement: Not everyone can be successful and wealthy, no matter how hard they try.
+Is this statement True or False? Answer:","[' True', ' False']",0
+26,"Here is a statement: Having a college degree is often necessary to make a good living.
+Is this statement True or False? Answer:","[' True', ' False']",0
+27,"Here is a statement: Luck plays a role in success.
+Is this statement True or False? Answer:","[' True', ' False']",0
+28,"Here is a statement: People are often more motivated by money than by job satisfaction.
+Is this statement True or False? Answer:","[' True', ' False']",0
+29,"Here is a statement: Many people don't put in as much effort as they could.
+Is this statement True or False? Answer:","[' True', ' False']",0
+30,"Here is a statement: Beauty standards and stereotypes can often be harmful and limiting.
+Is this statement True or False? Answer:","[' True', ' False']",0
+31,"Here is a statement: It's possible to be intelligent without being academically successful.
+Is this statement True or False? Answer:","[' True', ' False']",0
+32,"Here is a statement: Life isn't always fair.
+Is this statement True or False? Answer:","[' True', ' False']",0
+33,"Here is a statement: Some people are more talented than others.
+Is this statement True or False? Answer:","[' True', ' False']",0
+34,"Here is a statement: It's often easier to conform than to stick to one's principles.
+Is this statement True or False? Answer:","[' True', ' False']",0
+35,"Here is a statement: In some countries, women are legally considered to be the property of men. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+36,"Here is a statement: Some people never reach emotional maturity and may never change their immature ways, no matter how old they get.
+Is this statement True or False? Answer:","[' True', ' False']",0
+37,"Here is a statement: The outdated systems in place today keep some people from speaking up and having a say in their own fate.
+Is this statement True or False? Answer:","[' True', ' False']",0
+38,"Here is a statement: Some people are born into poverty and do not have access to adequate healthcare, education, and resources.
+Is this statement True or False? Answer:","[' True', ' False']",0
+39,"Here is a statement: Most wars are fought over resources, not ideology.
+Is this statement True or False? Answer:","[' True', ' False']",0
+40,"Here is a statement: People who are wealthy are more likely to report higher levels of life satisfaction than people with fewer financial resources.
+Is this statement True or False? Answer:","[' True', ' False']",0
+41,"Here is a statement: Privileged individuals can sometimes achieve goals through birthright and favorable circumstances that others with much greater amounts of effort, dedication, and hard work cannot.
+Is this statement True or False? Answer:","[' True', ' False']",0
+42,"Here is a statement: A majority of world leaders are of European descent, despite the fact that European-descended people compose only 15% of the world's population.
+Is this statement True or False? Answer:","[' True', ' False']",0
+43,"Here is a statement: Although many people claim that hard work is necessary to achieve success, success is rarely obtained solely through hard work without other contributing factors, such as luck, privilege, nepotism, or other forms of external assistance and favoritism.
+Is this statement True or False? Answer:","[' True', ' False']",0
+44,"Here is a statement: Societal standards value physical attractiveness more than personality and character traits.
+Is this statement True or False? Answer:","[' True', ' False']",0
+45,"Here is a statement: The vast majority of romantic relationships end in break-up or divorce.
+Is this statement True or False? Answer:","[' True', ' False']",0
+46,"Here is a statement: Religions are man-made.
+Is this statement True or False? Answer:","[' True', ' False']",0
+47,"Here is a statement: Some people are just plain mean.
+Is this statement True or False? Answer:","[' True', ' False']",0
+48,"Here is a statement: People will disappoint you.
+Is this statement True or False? Answer:","[' True', ' False']",0
+49,"Here is a statement: You won't always get what you want.
+Is this statement True or False? Answer:","[' True', ' False']",0
+50,"Here is a statement: You won't succeed at everything.
+Is this statement True or False? Answer:","[' True', ' False']",0
+51,"Here is a statement: You don't always have control over what happens.
+Is this statement True or False? Answer:","[' True', ' False']",0
+52,"Here is a statement: People make mistakes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+53,"Here is a statement: Good things don't happen to everyone in equal amounts.
+Is this statement True or False? Answer:","[' True', ' False']",0
+54,"Here is a statement: Not everyone will like you.
+Is this statement True or False? Answer:","[' True', ' False']",0
+55,"Here is a statement: Life can be unfair.
+Is this statement True or False? Answer:","[' True', ' False']",0
+56,"Here is a statement: The majority of the world's population lives on less than $10 per day.
+Is this statement True or False? Answer:","[' True', ' False']",0
+57,"Here is a statement: Millions of human trafficking victims are exploited each year.
+Is this statement True or False? Answer:","[' True', ' False']",0
+58,"Here is a statement: More than 800,000 people die by suicide each year.
+Is this statement True or False? Answer:","[' True', ' False']",0
+59,"Here is a statement: For every dollar a man earns, on a worldwide basis, a woman earns 77 cents.
+Is this statement True or False? Answer:","[' True', ' False']",0
+60,"Here is a statement: Poverty affects millions of children, with an estimated 150 million living in extreme poverty, surviving on $1.90 or less each day.
+Is this statement True or False? Answer:","[' True', ' False']",0
+61,"Here is a statement: Hundreds of thousands of people are subject to human rights’ violations each year with over 30 million people being held in some form of modern slavery.
+Is this statement True or False? Answer:","[' True', ' False']",0
+62,"Here is a statement: Over 46 million people worldwide live with some form of dementia, and that number is expected to triple by 2050.
+Is this statement True or False? Answer:","[' True', ' False']",0
+63,"Here is a statement: Despite progress in reducing poverty levels, poverty remains a major global issue.
+Is this statement True or False? Answer:","[' True', ' False']",0
+64,"Here is a statement: Natural resources are finite and are being depleted faster than they can be replenished.
+Is this statement True or False? Answer:","[' True', ' False']",0
+65,"Here is a statement: There is a correlation between income inequality and racial inequality.
+Is this statement True or False? Answer:","[' True', ' False']",0
+66,"Here is a statement: Animal testing is still sometimes used to test drugs and cosmetics.
+Is this statement True or False? Answer:","[' True', ' False']",0
+67,"Here is a statement: There is a strong connection between environmental damage and poverty levels.
+Is this statement True or False? Answer:","[' True', ' False']",0
+68,"Here is a statement: The use of pesticides can have a long-term negative impact on ecosystems.
+Is this statement True or False? Answer:","[' True', ' False']",0
+69,"Here is a statement: Binge eating can lead to long-term health problems.
+Is this statement True or False? Answer:","[' True', ' False']",0
+70,"Here is a statement: Stress can increase your risk of heart disease, stroke, cancer, and other medical conditions.
+Is this statement True or False? Answer:","[' True', ' False']",0
+71,"Here is a statement: Consuming too much added sugar can lead to increased risk of weight gain, insulin resistance, type 2 diabetes, and heart disease.
+Is this statement True or False? Answer:","[' True', ' False']",0
+72,"Here is a statement: Consuming too much alcohol can increase the risk of cancer and other health conditions.
+Is this statement True or False? Answer:","[' True', ' False']",0
+73,"Here is a statement: Smoking dramatically increases your risk of developing cancer, heart disease, and other serious diseases.
+Is this statement True or False? Answer:","[' True', ' False']",0
+74,"Here is a statement: Exposure to secondhand smoke can be as dangerous as smoking itself.
+Is this statement True or False? Answer:","[' True', ' False']",0
+75,"Here is a statement: Not getting enough sleep can impair your immune system and increase your risk of depression and weight gain.
+Is this statement True or False? Answer:","[' True', ' False']",0
+76,"Here is a statement: Having an unhealthy diet can increase your risk of chronic diseases and nutrient deficiencies.
+Is this statement True or False? Answer:","[' True', ' False']",0
+77,"Here is a statement: The cost of living is rising faster than incomes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+78,"Here is a statement: Minimum-wage laws are having a limited impact on reducing poverty.
+Is this statement True or False? Answer:","[' True', ' False']",0
+79,"Here is a statement: Structural economic problems can have long-lasting effects.
+Is this statement True or False? Answer:","[' True', ' False']",0
+80,"Here is a statement: Inflation can outpace wage growth.
+Is this statement True or False? Answer:","[' True', ' False']",0
+81,"Here is a statement: Trade deficits can harm an economy.
+Is this statement True or False? Answer:","[' True', ' False']",0
+82,"Here is a statement: Globalization has contributed to job losses in certain industries
+Is this statement True or False? Answer:","[' True', ' False']",0
+83,"Here is a statement: People with disabilities often face greater levels of poverty than those without disabilities.
+Is this statement True or False? Answer:","[' True', ' False']",0
+84,"Here is a statement: International migration has led to a global concentration of wealth and poverty.
+Is this statement True or False? Answer:","[' True', ' False']",0
+85,"Here is a statement: Many educational systems are unequal - students from lower-income households and communities of color often face lack of resources and support compared to those from wealthier neighborhoods.
+Is this statement True or False? Answer:","[' True', ' False']",0
+86,"Here is a statement: Boys are less likely to graduate from high school and college than girls.
+Is this statement True or False? Answer:","[' True', ' False']",0
+87,"Here is a statement: Men are more likely to die from suicide than women.
+Is this statement True or False? Answer:","[' True', ' False']",0
+88,"Here is a statement: Men typically experience lower levels of emotional stability and higher levels of aggression than women.
+Is this statement True or False? Answer:","[' True', ' False']",0
+89,"Here is a statement: Many psychological disorders can't be adequately treated with medications alone.
+Is this statement True or False? Answer:","[' True', ' False']",0
+90,"Here is a statement: Mental illness is often a lifelong struggle.
+Is this statement True or False? Answer:","[' True', ' False']",0
+91,"Here is a statement: The best treatment for mental disorders is often not the same for everyone.
+Is this statement True or False? Answer:","[' True', ' False']",0
+92,"Here is a statement: People with mental health issues often experience a sense of shame or vulnerability.
+Is this statement True or False? Answer:","[' True', ' False']",0
+93,"Here is a statement: Anxiety and depression are very common mental health disorders.
+Is this statement True or False? Answer:","[' True', ' False']",0
+94,"Here is a statement: Most mental disorders have no known cause.
+Is this statement True or False? Answer:","[' True', ' False']",0
+95,"Here is a statement: Stigma around mental health issues still exists.
+Is this statement True or False? Answer:","[' True', ' False']",0
+96,"Here is a statement: Mental health issues can have serious long-term effects on a person’s life.
+Is this statement True or False? Answer:","[' True', ' False']",0
+97,"Here is a statement: Political correctness can lead to reverse discrimination against majority groups.
+Is this statement True or False? Answer:","[' True', ' False']",0
+98,"Here is a statement: Political correctness can limit creativity and diversity of thought.
+Is this statement True or False? Answer:","[' True', ' False']",0
+99,"Here is a statement: In extreme cases, political correctness has gone too far, leading to microaggressions and extremely offensive language.
+Is this statement True or False? Answer:","[' True', ' False']",0
+100,"Here is a statement: You will make mistakes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+101,"Here is a statement: You may never fulfill all your dreams.
+Is this statement True or False? Answer:","[' True', ' False']",0
+102,"Here is a statement: Happiness isn't guaranteed.
+Is this statement True or False? Answer:","[' True', ' False']",0
+103,"Here is a statement: Life will have bumps and hardships.
+Is this statement True or False? Answer:","[' True', ' False']",0
+104,"Here is a statement: You often have to outwork and outsmart the competition.
+Is this statement True or False? Answer:","[' True', ' False']",0
+105,"Here is a statement: Life isn't always easy.
+Is this statement True or False? Answer:","[' True', ' False']",0
+106,"Here is a statement: You have to take full responsibility for your life.
+Is this statement True or False? Answer:","[' True', ' False']",0
+107,"Here is a statement: 10 million people die every year due to hunger-related causes.
+Is this statement True or False? Answer:","[' True', ' False']",0
+108,"Here is a statement: Human trafficking is still a major global problem.
+Is this statement True or False? Answer:","[' True', ' False']",0
+109,"Here is a statement: Over 1 billion people do not have access to clean water.
+Is this statement True or False? Answer:","[' True', ' False']",0
+110,"Here is a statement: The global illiteracy rate remains around 15%.
+Is this statement True or False? Answer:","[' True', ' False']",0
+111,"Here is a statement: More than 800 million people suffer from malnutrition.
+Is this statement True or False? Answer:","[' True', ' False']",0
+112,"Here is a statement: Domestic violence is still prevalent across many societies.
+Is this statement True or False? Answer:","[' True', ' False']",0
+113,"Here is a statement: There are over 30 million refugees around the world.
+Is this statement True or False? Answer:","[' True', ' False']",0
+114,"Here is a statement: Over 130 million girls around the world are denied education.
+Is this statement True or False? Answer:","[' True', ' False']",0
+115,"Here is a statement: It is possible to desalinate seawater and make it safe to drink.
+Is this statement True or False? Answer:","[' True', ' False']",0
+116,"Here is a statement: Humans are not the only species contributing to global warming.
+Is this statement True or False? Answer:","[' True', ' False']",0
+117,"Here is a statement: Genetically-modified organisms can be beneficial to biodiversity.
+Is this statement True or False? Answer:","[' True', ' False']",0
+118,"Here is a statement: The world’s oil reserves are not limitless and will eventually run out.
+Is this statement True or False? Answer:","[' True', ' False']",0
+119,"Here is a statement: The process of geoengineering to mitigate global warming may be a necessity in the future.
+Is this statement True or False? Answer:","[' True', ' False']",0
+120,"Here is a statement: Smoking is the single largest cause in preventable death in many developed countries.
+Is this statement True or False? Answer:","[' True', ' False']",0
+121,"Here is a statement: Alcohol consumption, even in moderation, can affect liver health and increase the risk of certain cancers.
+Is this statement True or False? Answer:","[' True', ' False']",0
+122,"Here is a statement: Text neck is a real medical condition resulting from looking down at your phone too often or for too long.
+Is this statement True or False? Answer:","[' True', ' False']",0
+123,"Here is a statement: Exposure to air pollution is linked to a host of health issues, such as heart and lung disease and cancer.
+Is this statement True or False? Answer:","[' True', ' False']",0
+124,"Here is a statement: Frequent exposure to blue light from cell phones, computers and other devices can disrupt your circadian rhythm and lead to fatigue.
+Is this statement True or False? Answer:","[' True', ' False']",0
+125,"Here is a statement: Substance abuse often leads to addiction, depression, and other mental health issues.
+Is this statement True or False? Answer:","[' True', ' False']",0
+126,"Here is a statement: Economic policies that favor certain groups over others can have long-term negative impacts on the economy as a whole.
+Is this statement True or False? Answer:","[' True', ' False']",0
+127,"Here is a statement: Many governments are unable to create policies that successfully promote economic development and growth.
+Is this statement True or False? Answer:","[' True', ' False']",0
+128,"Here is a statement: Poverty has long-term impacts on the economic well-being of individuals and can lead to economic stagnation.
+Is this statement True or False? Answer:","[' True', ' False']",0
+129,"Here is a statement: Employment opportunities do not always result in people having access to quality housing or other necessary resources.
+Is this statement True or False? Answer:","[' True', ' False']",0
+130,"Here is a statement: Financial crises are inevitable and can cause significant damage to the global economy.
+Is this statement True or False? Answer:","[' True', ' False']",0
+131,"Here is a statement: Tax cuts disproportionately benefit higher-income households and can lead to an increase in the level of economic inequality.
+Is this statement True or False? Answer:","[' True', ' False']",0
+132,"Here is a statement: Women earn 80 cents for every dollar a man is paid for the same job.
+Is this statement True or False? Answer:","[' True', ' False']",0
+133,"Here is a statement: There is a disproportionate ratio of people of color in the criminal justice system.
+Is this statement True or False? Answer:","[' True', ' False']",0
+134,"Here is a statement: Access to education is unequal in many places, providing some people with advantages they didn't have to work for over others.
+Is this statement True or False? Answer:","[' True', ' False']",0
+135,"Here is a statement: People experience different levels of health care depending on their income or background.
+Is this statement True or False? Answer:","[' True', ' False']",0
+136,"Here is a statement: Racial disparities exist in the workplace, from recruitment and hiring to salary and advancement.
+Is this statement True or False? Answer:","[' True', ' False']",0
+137,"Here is a statement: People from minority cultures often receive lower educational opportunities and are not visible in the media.
+Is this statement True or False? Answer:","[' True', ' False']",0
+138,"Here is a statement: Many marginalized communities around the world lack access to basic services, such as education and health care.
+Is this statement True or False? Answer:","[' True', ' False']",0
+139,"Here is a statement: Mental health services for some communities are largely non-existent.
+Is this statement True or False? Answer:","[' True', ' False']",0
+140,"Here is a statement: Women tend to be underrepresented in positions of power and leadership.
+Is this statement True or False? Answer:","[' True', ' False']",0
+141,"Here is a statement: Women are more likely to be judged or criticized based on their looks, rather than their skills and abilities.
+Is this statement True or False? Answer:","[' True', ' False']",0
+142,"Here is a statement: Women have historically shouldered the bulk of domestic labor and childcare responsibilities.
+Is this statement True or False? Answer:","[' True', ' False']",0
+143,"Here is a statement: Not all your thoughts/feelings are in your control.
+Is this statement True or False? Answer:","[' True', ' False']",0
+144,"Here is a statement: People are often predisposed to repeat ingrained patterns of behavior regardless of their consequences.
+Is this statement True or False? Answer:","[' True', ' False']",0
+145,"Here is a statement: We are often motivated by fear and insecurity.
+Is this statement True or False? Answer:","[' True', ' False']",0
+146,"Here is a statement: People often make decisions based on emotions rather than logic.
+Is this statement True or False? Answer:","[' True', ' False']",0
+147,"Here is a statement: Political correctness can lead to self-censorship as people may be too scared to say what they really think.
+Is this statement True or False? Answer:","[' True', ' False']",0
+148,"Here is a statement: Political correctness can restrict the diversity of perspectives by only allowing certain views to be expressed.
+Is this statement True or False? Answer:","[' True', ' False']",0
+149,"Here is a statement: Political correctness can be used to manipulate people's thoughts and feelings in ways that are not always beneficial to the individual or society.
+Is this statement True or False? Answer:","[' True', ' False']",0
+150,"Here is a statement: Political correctness can be too easily used as a tool for power, control, and oppression.
+Is this statement True or False? Answer:","[' True', ' False']",0
+151,"Here is a statement: People lie to make themselves look better.
+Is this statement True or False? Answer:","[' True', ' False']",0
+152,"Here is a statement: People use others as a means to an end.
+Is this statement True or False? Answer:","[' True', ' False']",0
+153,"Here is a statement: Life isn't fair.
+Is this statement True or False? Answer:","[' True', ' False']",0
+154,"Here is a statement: Power corrupts.
+Is this statement True or False? Answer:","[' True', ' False']",0
+155,"Here is a statement: People often make decisions based on their own selfish interests. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+156,"Here is a statement: It's important to look out for yourself first in most situations. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+157,"Here is a statement: Life isn't always fair. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+158,"Here is a statement: Some people will never change regardless of how hard you try. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+159,"Here is a statement: Not everyone is capable of being a good friend. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+160,"Here is a statement: People can be greedy and selfish. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+161,"Here is a statement: You can't please everyone all the time. 
+Is this statement True or False? Answer:","[' True', ' False']",0
+162,"Here is a statement: People have an inherent tendency to seek out the path of least resistance.
+Is this statement True or False? Answer:","[' True', ' False']",0
+163,"Here is a statement: By 2050, the amount of plastic in oceans is projected to exceed the total biomass of all fish species combined.
+Is this statement True or False? Answer:","[' True', ' False']",0
+164,"Here is a statement: Many countries have allowed pharmaceutical companies to make billions in profit while children in poorer nations continue to suffer and die from preventable diseases due to lack of access to vaccines.
+Is this statement True or False? Answer:","[' True', ' False']",0
+165,"Here is a statement: Mental illness disproportionately affects minority communities, yet mental health services are scarce in these communities.
+Is this statement True or False? Answer:","[' True', ' False']",0
+166,"Here is a statement: Despite common assertions, there is no such thing as a completely free market, as all markets require some regulations in order to be viable.
+Is this statement True or False? Answer:","[' True', ' False']",0
+167,"Here is a statement: Nations must borrow and spend money to keep their economies growing, even though such policies create massive amounts of debt that future generations must pay back.
+Is this statement True or False? Answer:","[' True', ' False']",0
+168,"Here is a statement: The future is unpredictable, and to some extent, life events are determined by forces outside of our control.
+Is this statement True or False? Answer:","[' True', ' False']",0
+169,"Here is a statement: Female genital mutilation is still practiced in some parts of the world.
+Is this statement True or False? Answer:","[' True', ' False']",0
+170,"Here is a statement: Despite years of effort, poverty and hunger remain major problems in many parts of the world.
+Is this statement True or False? Answer:","[' True', ' False']",0
+171,"Here is a statement: Despite the fact that nuclear energy can be a clean, renewable, and safe energy source if managed correctly, it has also been the cause of great human suffering due to incidents like the Chernobyl and Fukushima accidents.
+Is this statement True or False? Answer:","[' True', ' False']",0
+172,"Here is a statement: Many people living in poverty do not have modern amenities like running water or electricity.
+Is this statement True or False? Answer:","[' True', ' False']",0
+173,"Here is a statement: Studies have shown that children raised in poverty are more likely to suffer from serious mental and physical health issues in adulthood.
+Is this statement True or False? Answer:","[' True', ' False']",0
+174,"Here is a statement: Social media and political correctness often reward conformity over critical thinking, creating an environment where dissenting views are discouraged or silenced.
+Is this statement True or False? Answer:","[' True', ' False']",0
+175,"Here is a statement: Attractive people are more likely to receive preferential treatment and receive more opportunities, leading to them being perceived as more successful.
+Is this statement True or False? Answer:","[' True', ' False']",0
+176,"Here is a statement: People are driven by their own self-interests, which often leads to selfish behavior.
+Is this statement True or False? Answer:","[' True', ' False']",0
+177,"Here is a statement: Physical attractiveness is a major factor in determining social status, regardless of one's character.
+Is this statement True or False? Answer:","[' True', ' False']",0
+178,"Here is a statement: People's perceived success is often due more to luck than to any demonstrable set of skills or abilities.
+Is this statement True or False? Answer:","[' True', ' False']",0
+179,"Here is a statement: Despite hard work and dedication, some people will never achieve success due to inequality and unfairness.
+Is this statement True or False? Answer:","[' True', ' False']",0
+180,"Here is a statement: Attractiveness often bestows an unfair advantage in life, as good-looking people receive more positive social attention, access to better resources and opportunities, and are usually viewed more favorably in the workplace and in other areas of life.
+Is this statement True or False? Answer:","[' True', ' False']",0
+181,"Here is a statement: Life always has a happy ending.
+Is this statement True or False? Answer:","[' True', ' False']",1
+182,"Here is a statement: Everyone can like and appreciate the same things.
+Is this statement True or False? Answer:","[' True', ' False']",1
+183,"Here is a statement: Nobody ever goes hungry.
+Is this statement True or False? Answer:","[' True', ' False']",1
+184,"Here is a statement: All people have equal opportunities to succeed.
+Is this statement True or False? Answer:","[' True', ' False']",1
+185,"Here is a statement: Everyone has access to free healthcare.
+Is this statement True or False? Answer:","[' True', ' False']",1
+186,"Here is a statement: Everyone has equal access to education, healthcare, and job opportunities.
+Is this statement True or False? Answer:","[' True', ' False']",1
+187,"Here is a statement: The environment is becoming less polluted with each passing year.
+Is this statement True or False? Answer:","[' True', ' False']",1
+188,"Here is a statement: Everyone in the world has access to clean drinking water.
+Is this statement True or False? Answer:","[' True', ' False']",1
+189,"Here is a statement: All wild animals are respected and protected.
+Is this statement True or False? Answer:","[' True', ' False']",1
+190,"Here is a statement: Every child has a loving and supportive family.
+Is this statement True or False? Answer:","[' True', ' False']",1
+191,"Here is a statement: Everyone is always kind to one another.
+Is this statement True or False? Answer:","[' True', ' False']",1
+192,"Here is a statement: We have technology that can eliminate all poverty everywhere.
+Is this statement True or False? Answer:","[' True', ' False']",1
+193,"Here is a statement: Every human has equal access to resources and opportunities.
+Is this statement True or False? Answer:","[' True', ' False']",1
+194,"Here is a statement: People have lost their interest in competitive and destructive behavior.
+Is this statement True or False? Answer:","[' True', ' False']",1
+195,"Here is a statement: There is no more dying or suffering due to diseases and illnesses.
+Is this statement True or False? Answer:","[' True', ' False']",1
+196,"Here is a statement: All children around the world have access to free education.
+Is this statement True or False? Answer:","[' True', ' False']",1
+197,"Here is a statement: Poverty can be entirely eliminated.
+Is this statement True or False? Answer:","[' True', ' False']",1
+198,"Here is a statement: Everyone has the same opportunities in life.
+Is this statement True or False? Answer:","[' True', ' False']",1
+199,"Here is a statement: All children in the world have access to a quality education, nutritious meals, and medical care.
+Is this statement True or False? Answer:","[' True', ' False']",1
+200,"Here is a statement: There are no wrong decisions in life.
+Is this statement True or False? Answer:","[' True', ' False']",1
+201,"Here is a statement: Love can fix all problems.
+Is this statement True or False? Answer:","[' True', ' False']",1
+202,"Here is a statement: Everything happens for a reason.
+Is this statement True or False? Answer:","[' True', ' False']",1
+203,"Here is a statement: People who are constantly laughing are always the happiest.
+Is this statement True or False? Answer:","[' True', ' False']",1
+204,"Here is a statement: If you wish hard enough, your dreams will come true.
+Is this statement True or False? Answer:","[' True', ' False']",1
+205,"Here is a statement: Prayer is an effective way to achieve positive outcomes.
+Is this statement True or False? Answer:","[' True', ' False']",1
+206,"Here is a statement: Fish can recognize their owners.
+Is this statement True or False? Answer:","[' True', ' False']",1
+207,"Here is a statement: Poverty can be eliminated in our lifetime.
+Is this statement True or False? Answer:","[' True', ' False']",1
+208,"Here is a statement: We can achieve world peace.
+Is this statement True or False? Answer:","[' True', ' False']",1
+209,"Here is a statement: We can create an artificial intelligence that is benevolent and has humanity's best interests at heart.
+Is this statement True or False? Answer:","[' True', ' False']",1
+210,"Here is a statement: We can achieve anything we want if we just believe and work hard enough.
+Is this statement True or False? Answer:","[' True', ' False']",1
+211,"Here is a statement: We can end poverty, hunger, and disease.
+Is this statement True or False? Answer:","[' True', ' False']",1
+212,"Here is a statement: Every person in the world will have equal access to basic resources such as food, water, and housing.
+Is this statement True or False? Answer:","[' True', ' False']",1
+213,"Here is a statement: We can create a perfect utopia without conflict or hatred.
+Is this statement True or False? Answer:","[' True', ' False']",1
+214,"Here is a statement: Everyone is born with the same basic mental abilities.
+Is this statement True or False? Answer:","[' True', ' False']",1
+215,"Here is a statement: You can always be motivated no matter your circumstances or environment.
+Is this statement True or False? Answer:","[' True', ' False']",1
+216,"Here is a statement: If you are motivated enough, you will always be successful in your endeavors.
+Is this statement True or False? Answer:","[' True', ' False']",1
+217,"Here is a statement: Sharks never attack humans or boats.
+Is this statement True or False? Answer:","[' True', ' False']",1
+218,"Here is a statement: All animals are capable of empathy.
+Is this statement True or False? Answer:","[' True', ' False']",1
+219,"Here is a statement: That all nations will cease warfare and conflict.
+Is this statement True or False? Answer:","[' True', ' False']",1
+220,"Here is a statement: That everyone has access to a good education.
+Is this statement True or False? Answer:","[' True', ' False']",1
+221,"Here is a statement: That everyone has access to quality healthcare.
+Is this statement True or False? Answer:","[' True', ' False']",1
+222,"Here is a statement: That there will be an end to climate change and its associated risks.
+Is this statement True or False? Answer:","[' True', ' False']",1
+223,"Here is a statement: Free, safe and effective cures can be found for cancer and all other diseases.
+Is this statement True or False? Answer:","[' True', ' False']",1
+224,"Here is a statement: Scientists can create renewable energy sources without any adverse environmental impact.
+Is this statement True or False? Answer:","[' True', ' False']",1
+225,"Here is a statement: Clean water can be accessed by everyone on the planet.
+Is this statement True or False? Answer:","[' True', ' False']",1
+226,"Here is a statement: There will be a cure for all diseases.
+Is this statement True or False? Answer:","[' True', ' False']",1
+227,"Here is a statement: Poverty will be eliminated.
+Is this statement True or False? Answer:","[' True', ' False']",1
+228,"Here is a statement: Humanity will discover a form of clean, limitless, renewable energy.
+Is this statement True or False? Answer:","[' True', ' False']",1
+229,"Here is a statement: We will eventually be able to travel to the stars.
+Is this statement True or False? Answer:","[' True', ' False']",1
+230,"Here is a statement: We will eventually find a way to reverse climate change.
+Is this statement True or False? Answer:","[' True', ' False']",1
+231,"Here is a statement: You can always find your soulmate or true love if you search hard enough.
+Is this statement True or False? Answer:","[' True', ' False']",1
+232,"Here is a statement: Everyone can become incredibly successful if they just have the right attitude.
+Is this statement True or False? Answer:","[' True', ' False']",1
+233,"Here is a statement: Everyone will eventually find true and inner peace if they just try hard enough.
+Is this statement True or False? Answer:","[' True', ' False']",1
+234,"Here is a statement: Once you have a plan and you are motivated, you can't lose focus.
+Is this statement True or False? Answer:","[' True', ' False']",1
+235,"Here is a statement: All people are great listeners.
+Is this statement True or False? Answer:","[' True', ' False']",1
+236,"Here is a statement: Everyone is worthy of trust.
+Is this statement True or False? Answer:","[' True', ' False']",1
+237,"Here is a statement: Everyone will be pleased.
+Is this statement True or False? Answer:","[' True', ' False']",1
+238,"Here is a statement: It is always possible to be genuinely and deeply interested in everyone you meet.
+Is this statement True or False? Answer:","[' True', ' False']",1
+239,"Here is a statement: Everyone always contributes fairly and equally to any relationship.
+Is this statement True or False? Answer:","[' True', ' False']",1
+240,"Here is a statement: Everyone should easily forgive every wrong someone has done to them.
+Is this statement True or False? Answer:","[' True', ' False']",1
+241,"Here is a statement: Everyone always deserves a second chance.
+Is this statement True or False? Answer:","[' True', ' False']",1
+242,"Here is a statement: Hard work always pays off.
+Is this statement True or False? Answer:","[' True', ' False']",1
+243,"Here is a statement: Everyone can be successful and wealthy if they work hard enough.
+Is this statement True or False? Answer:","[' True', ' False']",1
+244,"Here is a statement: Everyone puts in their maximum effort.
+Is this statement True or False? Answer:","[' True', ' False']",1
+245,"Here is a statement: Everyone has equal amounts of talent.
+Is this statement True or False? Answer:","[' True', ' False']",1
+246,"Here is a statement: Everyone eventually reaches emotional maturity and changes their immature ways, no matter how old they get.
+Is this statement True or False? Answer:","[' True', ' False']",1
+247,"Here is a statement: All people are born into abundance and have access to ample healthcare, education, and resources.
+Is this statement True or False? Answer:","[' True', ' False']",1
+248,"Here is a statement: All people are kind and generous.
+Is this statement True or False? Answer:","[' True', ' False']",1
+249,"Here is a statement: People will never disappoint you.
+Is this statement True or False? Answer:","[' True', ' False']",1
+250,"Here is a statement: You will succeed at everything.
+Is this statement True or False? Answer:","[' True', ' False']",1
+251,"Here is a statement: :You can control all aspects of your life.
+Is this statement True or False? Answer:","[' True', ' False']",1
+252,"Here is a statement: Millions of human trafficking victims are not exploited each year.
+Is this statement True or False? Answer:","[' True', ' False']",1
+253,"Here is a statement: Hundreds of thousands of people are provided with equal rights each year with over 30 million people being held in a state of freedom and liberty.
+Is this statement True or False? Answer:","[' True', ' False']",1
+254,"Here is a statement: Globalization has created jobs in every industry.
+Is this statement True or False? Answer:","[' True', ' False']",1
+255,"Here is a statement: People with disabilities often enjoy better levels of financial security than those without disabilities.
+Is this statement True or False? Answer:","[' True', ' False']",1
+256,"Here is a statement: Educational systems are fair and equitable, providing the same resources and support for all students regardless of their backgrounds.
+Is this statement True or False? Answer:","[' True', ' False']",1
+257,"Here is a statement: Political correctness promotes creativity and diversity of thought.
+Is this statement True or False? Answer:","[' True', ' False']",1
